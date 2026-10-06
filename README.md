@@ -23,4 +23,11 @@ Se trabaja con **datos sintéticos**, generados para representar condiciones ind
 
 | Variable | ¿Qué representa? | Unidad |
 |----------|------------------|--------|
+| Temperatura del aire | Temperatura del ambiente | K |
+| Temperatura del proceso | Temperatura durante la operación | K |
+| Velocidad de rotación | Rapidez de giro | rpm |
+| Torque | Momento de fuerza aplicado | N·m |
+| Desgaste de la herramienta | Uso acumulado de la herramienta | min |
+| Falla | Indica si ocurrió una falla | Sí / No |
+
 
