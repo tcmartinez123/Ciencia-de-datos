@@ -38,6 +38,7 @@ Se trabaja con **datos sintéticos**, generados para representar condiciones ind
 5. **Evalúa las reglas:** Compara las fallas identificadas con las falsas alarmas.
 
 La potencia mecánica se calcula mediante:
+
 $$
 P= \tau \omega
 $$
