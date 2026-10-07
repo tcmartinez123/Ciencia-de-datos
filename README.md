@@ -53,6 +53,18 @@ Este ejemplo es ilustrativo: el límite debe obtenerse de los datos y validarse 
 </details>
 
 
+INSERTAR UN GIF QUE TENGA QUE VER CON LO ANTERIOR
+
+## Resultados y alcance
+- El autor encontró relaciones entre el desgaste de la herramienta y ciertos tipos de falla.
+- Analizó la potencia y las condiciones de temperatura como señales relacionadas con problemas de operación.
+- Propuso reglas comprensibles y evaluó cuántas falsas alarmas podían generar.
+> [!Warning]
+> El proyecto utiliza datos sintéticos. Sus resultados no demuestran que las reglas hayan reducido fallas en una fábrica ni permiten conocer el momento exacto en que una máquina se dañará.
+
+
+
+
 
 
 
