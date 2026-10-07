@@ -43,6 +43,16 @@ $$
 P= \tau \omega
 $$
 
+Donde **P** es la potencia en watts, **τ** es el torque en N*m y **w** es la velocidad angular en rad/s.
+
+
+<details>
+<Summary> Un ejemplo para entenderlo mejor </Summary>
+Si el análisis muestra que las fallas son más frecuentes después de cierto tiempo de uso, se podría proponer revisar o cambiar la herramienta antes de alcanzar ese límite.
+Este ejemplo es ilustrativo: el límite debe obtenerse de los datos y validarse antes de aplicarlo a una máquina real.
+</details>
+
+
 
 
 
