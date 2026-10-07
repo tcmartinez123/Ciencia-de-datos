@@ -30,4 +30,18 @@ Se trabaja con **datos sintéticos**, generados para representar condiciones ind
 | Desgaste de la herramienta | Uso acumulado de la herramienta | min |
 | Falla | Indica si ocurrió una falla | Sí / No |
 
+## ¿Como funciona?
+1. **Explora los datos:** Compara las condiciones de funcionamiento con y sin fallas.
+2. **Calcula nuevas variables:** Obtiene la diferencia de temperaturas y la potencia mecánica.
+3. **Construye modelos estadísticos:** Utiliza regresión logística para estimar probabilidades de distintos tipos de falla.
+4. **Propone reglas:** Establece límites que orientan las decisiones de mantenimiento.
+5. **Evalúa las reglas:** Compara las fallas identificadas con las falsas alarmas.
+
+La potencia mecánica se calcula mediante:
+$$
+P= \tau \omega
+$$
+
+
+
 
