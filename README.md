@@ -54,6 +54,7 @@ Este ejemplo es ilustrativo: el límite debe obtenerse de los datos y validarse 
 
 
 INSERTAR UN GIF QUE TENGA QUE VER CON LO ANTERIOR
+![gif 1](gif.gif)
 
 ## Resultados y alcance
 - El autor encontró relaciones entre el desgaste de la herramienta y ciertos tipos de falla.
